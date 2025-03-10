@@ -1,5 +1,10 @@
 package org.example.Week3Homework;
 
+
+
+
+
+
 abstract class Car implements Vehicle {
     protected final double fuelTankSize;
     protected final String fuelType;
